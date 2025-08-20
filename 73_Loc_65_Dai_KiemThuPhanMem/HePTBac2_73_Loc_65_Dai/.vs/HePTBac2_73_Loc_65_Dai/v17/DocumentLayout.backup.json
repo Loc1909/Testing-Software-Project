@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\HePTBac2_73_Loc_65_Dai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{342C4484-44DE-4012-8019-BB7C313CD3CA}|HePTBac2_73_Loc_65_Dai.csproj|c:\\users\\asus\\source\\repos\\heptbac2_73_loc_65_dai\\heptbac2_functions_73_loc_65_dai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342C4484-44DE-4012-8019-BB7C313CD3CA}|HePTBac2_73_Loc_65_Dai.csproj|solutionrelative:heptbac2_functions_73_loc_65_dai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB575DD7-C7F6-4055-A825-F08E21A4B017}|..\\HePTBac2_Test_73_Loc_65_Dai\\HePTBac2_Test_73_Loc_65_Dai.csproj|c:\\users\\asus\\source\\repos\\heptbac2_test_73_loc_65_dai\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB575DD7-C7F6-4055-A825-F08E21A4B017}|..\\HePTBac2_Test_73_Loc_65_Dai\\HePTBac2_Test_73_Loc_65_Dai.csproj|c:\\users\\asus\\source\\repos\\heptbac2_test_73_loc_65_dai\\testdata_73_loc_65_dai\\datachucnang1_73_loc_65_dai.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342C4484-44DE-4012-8019-BB7C313CD3CA}|HePTBac2_73_Loc_65_Dai.csproj|C:\\Users\\ASUS\\source\\repos\\HePTBac2_73_Loc_65_Dai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342C4484-44DE-4012-8019-BB7C313CD3CA}|HePTBac2_73_Loc_65_Dai.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HePTBac2_Functions_73_Loc_65_Dai.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\HePTBac2_73_Loc_65_Dai\\HePTBac2_Functions_73_Loc_65_Dai.cs",
+              "RelativeDocumentMoniker": "HePTBac2_Functions_73_Loc_65_Dai.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\HePTBac2_73_Loc_65_Dai\\HePTBac2_Functions_73_Loc_65_Dai.cs",
+              "RelativeToolTip": "HePTBac2_Functions_73_Loc_65_Dai.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAYwBEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:54:16.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\HePTBac2_73_Loc_65_Dai\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\HePTBac2_73_Loc_65_Dai\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvyIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:22:40.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataChucNang1_73_Loc_65_Dai.csv",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\HePTBac2_Test_73_Loc_65_Dai\\TestData_73_Loc_65_Dai\\DataChucNang1_73_Loc_65_Dai.csv",
+              "RelativeDocumentMoniker": "..\\HePTBac2_Test_73_Loc_65_Dai\\TestData_73_Loc_65_Dai\\DataChucNang1_73_Loc_65_Dai.csv",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\HePTBac2_Test_73_Loc_65_Dai\\TestData_73_Loc_65_Dai\\DataChucNang1_73_Loc_65_Dai.csv",
+              "RelativeToolTip": "..\\HePTBac2_Test_73_Loc_65_Dai\\TestData_73_Loc_65_Dai\\DataChucNang1_73_Loc_65_Dai.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-03-29T09:57:20.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\HePTBac2_Test_73_Loc_65_Dai\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\HePTBac2_Test_73_Loc_65_Dai\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\HePTBac2_Test_73_Loc_65_Dai\\UnitTest1.cs",
+              "RelativeToolTip": "..\\HePTBac2_Test_73_Loc_65_Dai\\UnitTest1.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwv0QAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T03:00:55.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

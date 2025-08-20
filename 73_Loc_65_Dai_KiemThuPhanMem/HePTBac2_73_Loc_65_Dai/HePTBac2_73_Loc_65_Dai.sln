@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HePTBac2_73_Loc_65_Dai", "HePTBac2_73_Loc_65_Dai.csproj", "{342C4484-44DE-4012-8019-BB7C313CD3CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HePTBac2_Test_73_Loc_65_Dai", "..\HePTBac2_Test_73_Loc_65_Dai\HePTBac2_Test_73_Loc_65_Dai.csproj", "{CB575DD7-C7F6-4055-A825-F08E21A4B017}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{342C4484-44DE-4012-8019-BB7C313CD3CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342C4484-44DE-4012-8019-BB7C313CD3CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342C4484-44DE-4012-8019-BB7C313CD3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342C4484-44DE-4012-8019-BB7C313CD3CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB575DD7-C7F6-4055-A825-F08E21A4B017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB575DD7-C7F6-4055-A825-F08E21A4B017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB575DD7-C7F6-4055-A825-F08E21A4B017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB575DD7-C7F6-4055-A825-F08E21A4B017}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23700319-9527-4F13-945C-4A5C649410E3}
+	EndGlobalSection
+EndGlobal
